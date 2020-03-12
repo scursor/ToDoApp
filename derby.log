@@ -1,0 +1,16 @@
+----------------------------------------------------------------
+Fri Mar 13 01:37:26 IST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0170-d05b-d946-00000a16ea90 
+on database directory memory:/Users/goelsg/Downloads/ToDoDroid/33beff55-b48d-42ff-86bb-b22fc3dd62ce with class loader sun.misc.Launcher$AppClassLoader@2a139a55 
+Loaded from file:/Users/goelsg/.gradle/caches/modules-2/files-2.1/org.apache.derby/derby/10.14.2.0/7efad40ef52fbb1f08142f07a83b42d29e47d8ce/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_231-b11
+user.dir=/Users/goelsg/Downloads/ToDoDroid
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.14.6
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Mar 13 01:37:59 IST 2020:
+Shutting down instance a816c00e-0170-d05b-d946-00000a16ea90 on database directory memory:/Users/goelsg/Downloads/ToDoDroid/33beff55-b48d-42ff-86bb-b22fc3dd62ce with class loader sun.misc.Launcher$AppClassLoader@2a139a55 
